@@ -1,4 +1,5 @@
 # Understand Literature at the Frontiers of Machine Learning for Social Science.
+The following page shows the analysis on the literature related to the research project. Namely, it includes the an exploration of a paper previously published that is related with the research in question. Additionally, it includes the draft of the research idea for the project: *Fueling Development: Examining Economic Drivers of Energy Access and Efficiency.*
 
 ## 1.1 Paper Analysis
 <p align="center">
@@ -71,7 +72,7 @@ Existing literature lacks a comprehensive understanding of how economic factors 
 The research aims to answer the following questions:
 
 1. How do economic factors correlate with disparities in energy access across regions?
-. What factors contribute to countries' energy efficiency classifications, and can these be reliably predicted?
+2. What factors contribute to countries' energy efficiency classifications, and can these be reliably predicted?
 
 ### Application Scenarios
 The transition towards eco-friendly energy sources, coupled with global events like COP28, underscores the urgency of understanding energy patterns. This research aims to unravel the impact of economic variables on energy access and efficiency, addressing critical gaps in existing literature and offering insights into sustainable energy practices.
