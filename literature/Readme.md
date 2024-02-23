@@ -65,7 +65,7 @@ Komarova, A.V., Filimonova, I.V., & Kartashevich, A.A. "Energy consumption of th
 ### Background/Motivation
 This research explores the intricate relationship between economic factors and energy efficiency using machine learning techniques. By analyzing data on energy consumption, production, and economic indicators, we aim to uncover patterns and insights that can inform policy decisions and infrastructure planning efforts. Our study addresses pressing questions about disparities in energy access and the determinants of countries' energy efficiency classifications. Through this research, we seek to contribute to the transition towards a sustainable global energy system. *Figure 1* shows a detailed flowchart of this essay, providing an overview of the research proposal.
 
-Existing literature lacks a comprehensive understanding of how economic factors influence energy access and efficiency. Our research fills this gap by employing advanced machine learning techniques to analyze large datasets and uncover nuanced relationships.
+While previous studies have examined energy consumption trends across different regions and countries, there is still a need for a more thorough analysis considering economic development levels and geographical regions. Additionally, understanding the specific impact of economic factors on energy access disparities and efficiency classifications remains an ongoing challenge in the literature. Furthermore, existing literature lacks a comprehensive understanding of how economic factors influence energy access and efficiency. Our research fills this gap by employing advanced machine learning techniques to analyze large datasets and uncover nuanced relationships.
 
 
 ### Research Question
