@@ -13,7 +13,23 @@ Thus, this repository documents the steps in this process. Namely, it includes v
       - Headshot
       - Bio and Resume
 
-2. [Method](method/README.md)
+2. [Literature](literature/Readme.md)
+   - [1.1. Paper Analysis](./literature/Readme.md#11-paper-analysis)
+      - Background/Motivation
+      - Research Question
+      - Application Scenarios
+      - Methodology
+      - Results
+      - Intellectual Merits/Practical Impacts
+   - [1.2. Research Idea](./literature/Readme.md#12-research-idea)
+      - Background/Motivation
+      - Research Question
+      - Application Scenarios
+      - Methodology
+      - Results
+      - Intellectual Merits/Practical Impacts
+
+3. [Method](method/README.md)
    - [The Prediction Problem](./method/README.md#11-the-prediction-problem)
       - [Prediction Task Workflow](./method/README.md#prediction-task-workflow)
       - [Research Question Formulation](./method/README.md#research-question-formulation)
@@ -24,14 +40,14 @@ Thus, this repository documents the steps in this process. Namely, it includes v
       - [Results Presentation](./method/README.md#results-presentation)
       - [Model Evaluation](./method/README.md#model-evaluation)   
       
-3. [Data](data/README.md)
+4. [Data](data/README.md)
    - [Queried data](./data/Queried_data)
    - [Data Description](./data/README.md)
       - [Dataset Sturcture flowchart](./data/README.md#dataset-structure)
       - [Data Dictionary](./data/README.md#data-dictionary)
    - [Processed data](./data/Processed_data)
 
-4. [Code](code/README.md)
+5. [Code](code/README.md)
    - [Data Query Process Description](./code/README.md#data-query)
       - [App of visualization 1](./code/README.md#visualization-1)
       - [App of visualization 2](./code/README.md#visualization-2)
