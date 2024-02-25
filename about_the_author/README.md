@@ -14,7 +14,7 @@ Personally speaking, I find joy in learning new languages and 🌐 connecting wi
 Currently at DKU, I am on a journey to challenge myself academically, socially, and personally.
 
 
-## Final Reflection:
+## Final Reflection
 
 🌟 **Intellectual Growth:**
 Throughout this course, I experienced significant intellectual growth as I delved into the application of machine learning to address social and economic issues. Initially, I possessed a foundational understanding of computational and statistical techniques but lacked insight into their potential impact on societal challenges. However, through engaging with course materials, discussions, and practical projects, I developed a deeper appreciation for the merits of applying machine learning in the context of social science. Furthermore, collaborating with peers from diverse backgrounds and classes allowed me to gain new perspectives and insights, fostering creative problem-solving approaches. This course not only broadened my academic horizons but also enriched my understanding on how to be a pioneer and of the significance of the intersection between machine learning/ data science and the social sciences to solve real-world issues. 
