@@ -61,13 +61,14 @@ By enhancing our understanding of the intricate dynamics between economic variab
 
 
 ## Table of Contents
-
-1. [About the Author](about_the_author/README.md)
-      - Headshot
-      - Bio and Resume
-      - Intellectual growth
-      - Professional growth
-      - Living a purposeful life
+1. [Project Summary](./README.md#project-information)
+   - Summarize the Background/Motivation
+   - Research Questions
+   - Application Scenario (Data Source)
+   - Methodology
+   - Results
+   - Intellectual Merits and Practical impacts of your project.
+   - Research Poster
 
 2. [Literature](literature/Readme.md)
    - [1.1. Paper Analysis](./literature/Readme.md#11-paper-analysis)
@@ -111,3 +112,18 @@ By enhancing our understanding of the intricate dynamics between economic variab
       - [Regression Data Processing and Analysis](./code/data_analysis/Analysis_Processing_Regression.ipynb)
       - [Classification Data Processing and Analysis](./code/data_analysis/Analysis_Processing_Classification.ipynb)
 
+6. [Results](results/README.md)
+
+7. [Future Research Directions](future_research/README.md)
+   - [Causal Inference Research Summary](./future_research/README.md#1-causal-inference-research-idea)
+   - [Optimization Research Summary](./future_research/README.md#2-optimization-research-idea)
+   
+8. [Spotlights](spotlights/README.md)
+   - Visualizations
+
+9. [More about the Author](about_the_author/README.md)
+   - Headshot
+   - Bio and Resume
+   - Intellectual growth
+   - Professional growth
+   - Living a purposeful life

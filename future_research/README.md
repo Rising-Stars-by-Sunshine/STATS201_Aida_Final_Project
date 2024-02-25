@@ -30,9 +30,9 @@ The causal relationship between environmental policy interventions and air quali
 - **Variables**:
     1. Independent Variable: Specific environmental policy interventions (for example, implementation of carbon pricing, investment in renewable energy).
     2. Dependent Variable: Air quality indicators (levels of PM2.5, NO2, SO2).
-    - t (time duration) $\rightarrow$ weekly (1987 – 2023)
-    - Y (variable of interest) $\rightarrow$ change in air quality
-    - I (event of treatment) $\rightarrow$ environmental policy interventions
+    - *t*(time duration) $\rightarrow$ weekly (1987 – 2023)
+    - *Y* (variable of interest) $\rightarrow$ change in air quality
+    - *I* (event of treatment) $\rightarrow$ environmental policy interventions
 - **Data Type**:
     - Panel data. The dataset includes information on air quality measurements in different sites across the US over time (United States Environmental Protection Agency, 2023). 
 - **Machine Learning Algorithm and Package Selection**:
