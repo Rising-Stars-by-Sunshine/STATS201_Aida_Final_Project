@@ -5,9 +5,9 @@ The following page shows all the visualization files from the data analysis of b
 <img src="linear_regression_true_vs_predicted.png" alt="visualization" width="600"/>
 <img src="random_forest_true_vs_predicted.png" alt="visualization" width="600"/>
 <img src="linear_regression_true_vs_predicted_scatter.png" alt="visualization" width="600"/>
+<img src="linear_regression_true_vs_predicted_residuals.png" alt="visualization" width="600"/>
 <img src="correlation_matrix.png" alt="visualization" width="600"/>
 <img src="correlation_scatter_plot.png" alt="visualization" width="600"/>
-<img src="linear_regression_true_vs_predicted_residuals.png" alt="visualization" width="600"/>
 
 ## Classification Model Visualizations:
 <img src="classification_confusion_matrix.png" alt="visualization" width="600"/>
