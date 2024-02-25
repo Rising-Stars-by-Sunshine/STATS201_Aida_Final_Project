@@ -1,7 +1,7 @@
 # Understand Literature at the Frontiers of Machine Learning for Social Science.
-The following page shows the analysis on the literature related to the research project. Namely, it includes the an exploration of a paper previously published that is related with the research in question. Additionally, it includes the draft of the research idea for the project: *Fueling Development: Examining Economic Drivers of Energy Access and Efficiency.*
+The following page shows the analysis on the literature related to the research project. Namely, it includes the an exploration of a paper previously published that is related with the research in question. Additionally, it includes the draft of the research idea for the project: *Fueling Development: Examining Economic Drivers of Energy Access and Efficiency.* Additionally, it includes how the previous literature relates to the research idea presented in this repository.
 
-## 1.1 Paper Analysis
+## Previous Literature
 <p align="center">
   <kbd>
     <img src="Literature_mindmap.png" alt="Flowchart" width="600"/>
@@ -48,54 +48,12 @@ The study contributes to existing research by offering a comprehensive analysis 
 
 The research findings could guide policymakers and stakeholders in developing energy policies and strategies that balance economic growth objectives with environmental sustainability goals. Understanding the nuances of energy consumption patterns can inform decision-making processes aimed at mitigating climate change and promoting sustainable development.
 
-### References
-
-Komarova, A.V., Filimonova, I.V., & Kartashevich, A.A. "Energy consumption of the countries in the context of economic development and energy transition." *Energy Reports* 8, no. 9 (2022): 683-690. Accessed January 10, 2024. https://doi.org/10.1016/j.egyr.2022.07.072.
-
-
-## 1.2 Research idea
-<p align="center">
-  <kbd>
-    <img src="Research_mindmap.png" alt="Flowchart2" width="600"/>
-  </kbd>
-</p>
-
-*Figure 1: Map of the research proposal. Created with Whimsical*
-
-### Background/Motivation
-This research explores the intricate relationship between economic factors and energy efficiency using machine learning techniques. By analyzing data on energy consumption, production, and economic indicators, we aim to uncover patterns and insights that can inform policy decisions and infrastructure planning efforts. Our study addresses pressing questions about disparities in energy access and the determinants of countries' energy efficiency classifications. Through this research, we seek to contribute to the transition towards a sustainable global energy system. *Figure 1* shows a detailed flowchart of this essay, providing an overview of the research proposal.
-
+### Connection between Current Literature and Project Idea
 While previous studies have examined energy consumption trends across different regions and countries, there is still a need for a more thorough analysis considering economic development levels and geographical regions. Additionally, understanding the specific impact of economic factors on energy access disparities and efficiency classifications remains an ongoing challenge in the literature. Furthermore, existing literature lacks a comprehensive understanding of how economic factors influence energy access and efficiency. Our research fills this gap by employing advanced machine learning techniques to analyze large datasets and uncover nuanced relationships.
 
 
-### Research Question
-The research aims to answer the following questions:
-
-1. How do economic factors correlate with disparities in energy access across regions?
-2. What factors contribute to countries' energy efficiency classifications, and can these be reliably predicted?
-
-### Application Scenarios
-The transition towards eco-friendly energy sources, coupled with global events like COP28, underscores the urgency of understanding energy patterns. This research aims to unravel the impact of economic variables on energy access and efficiency, addressing critical gaps in existing literature and offering insights into sustainable energy practices.
-
-### Methodology
-**Data Source and Datasets:**
-Using the dataset on energy consumption and production by the scientific online site Our World in Data (2023), the research will integrate external datasets related to economic indicators, policy changes, and global events. The dataset provides a comprehensive overview of global energy dynamics, including variables related to energy consumption, production, and environmental impact. For example, country names, years, population, GDP, biofuel consumption, coal usage, gas consumption, nuclear power, oil consumption, hydropower, low-carbon energy, renewables, and others (Rosado et.al, 2023). Data preprocessing techniques will be employed to handle missing values and to filter only the necessary data.
-
-**Machine Learning Algorithms:**
-This research will employ advanced machine learning algorithms, including regression models and random forest classifiers, for analysis. The regression models will elucidate the relationship between economic factors and energy access disparities, while random forest classifiers will discern the key determinants of countries' energy efficiency classifications.
-
-**Software and Computing Platforms:**
-Python is the primary programming language, leveraging data analysis libraries such as Pandas and NumPy.
-
-
-### Results
-Anticipated outcomes include identifying specific economic factors influencing energy access disparities and elucidating the pivotal determinants of countries' energy efficiency classifications. These findings are poised to inform policy decisions, infrastructure planning endeavors, and risk management strategies, thereby facilitating the transition towards a sustainable and secure global energy system.
-
-### Intellectual Merits/Practical Impacts
-By enhancing our understanding of the intricate dynamics between economic variables and energy-related outcomes, this research endeavors to furnish policymakers, energy planners, and researchers with actionable insights to devise adaptive strategies, formulate inclusive policies, and design resilient energy infrastructures. Ultimately, this endeavor aims to contribute towards fostering global energy sustainability and resilience in the face of evolving economic landscapes and shifting global paradigms.
-
-
 ### References
+Komarova, A.V., Filimonova, I.V., & Kartashevich, A.A. "Energy consumption of the countries in the context of economic development and energy transition." *Energy Reports* 8, no. 9 (2022): 683-690. Accessed January 10, 2024. https://doi.org/10.1016/j.egyr.2022.07.072.
 
 Ritchie, Hannah, Pablo Rosado, and Max Roser. 2023. "Energy." OurWorldInData.org.
 https://ourworldindata.org/energy.

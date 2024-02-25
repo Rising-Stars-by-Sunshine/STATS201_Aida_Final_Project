@@ -62,9 +62,12 @@ By enhancing our understanding of the intricate dynamics between economic variab
 
 ## Table of Contents
 
-1. [About the Author](./README.md#about-the-author)
+1. [About the Author](about_the_author/README.md)
       - Headshot
       - Bio and Resume
+      - Intellectual growth
+      - Professional growth
+      - Living a purposeful life
 
 2. [Literature](literature/Readme.md)
    - [1.1. Paper Analysis](./literature/Readme.md#11-paper-analysis)
@@ -74,13 +77,8 @@ By enhancing our understanding of the intricate dynamics between economic variab
       - Methodology
       - Results
       - Intellectual Merits/Practical Impacts
-   - [1.2. Research Idea](./literature/Readme.md#12-research-idea)
-      - Background/Motivation
-      - Research Question
-      - Application Scenarios
-      - Methodology
-      - Results
-      - Intellectual Merits/Practical Impacts
+      - [Connection to the Research Idea](./literature/Readme.md#connection-between-current-literature-and-project-idea)
+      - References
 
 3. [Method](method/README.md)
    - [The Prediction Problem](./method/README.md#11-the-prediction-problem)
@@ -110,7 +108,6 @@ By enhancing our understanding of the intricate dynamics between economic variab
       - [References](./code/README.md#references)
    - [Data Query code](./code/data_query)
    - [Data Analysis](./code/data_analysis)
-      - [Regression Data Processing](./code/data_analysis/Data_Processing_Regression.ipynb)
-      - [Regression Data Analysis](./code/data_analysis/Data_Analysis_Regression.ipynb)
+      - [Regression Data Processing and Analysis](./code/data_analysis/Analysis_Processing_Regression.ipynb)
       - [Classification Data Processing and Analysis](./code/data_analysis/Analysis_Processing_Classification.ipynb)
 
