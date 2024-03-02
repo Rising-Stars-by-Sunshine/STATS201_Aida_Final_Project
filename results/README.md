@@ -1,6 +1,10 @@
 # RESULTS
 This section shows how the research answers each research question based on the specific methods.
 
+<img src="mind_map.png"/>
+
+*Workflow of this section. Created with Whimsical*
+
 ## Answering Research Question 1:
 
 1. **Research Question:** How do economic factors such as GDP per capita correlate with energy access disparities across different regions?
