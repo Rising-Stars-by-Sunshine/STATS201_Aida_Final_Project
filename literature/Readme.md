@@ -1,5 +1,5 @@
 # Understand Literature at the Frontiers of Machine Learning for Social Science.
-The following page shows the analysis on the literature related to the research project. Namely, it includes the an exploration of a paper previously published that is related with the research in question. Additionally, it includes the draft of the research idea for the project: *Fueling Development: Examining Economic Drivers of Energy Access and Efficiency.* Additionally, it includes how the previous literature relates to the research idea presented in this repository.
+The following page shows the analysis on the literature related to the research project. Namely, it includes the an exploration of a paper previously published that is related with the research in question. Additionally, it includes how the previous literature relates to the research idea presented in this repository.
 
 ## Previous Literature
 <p align="center">
