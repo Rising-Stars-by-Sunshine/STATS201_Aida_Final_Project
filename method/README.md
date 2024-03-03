@@ -128,6 +128,22 @@ The following workflow was the same for both regression and classification model
   - **Model Complexity:** Evaluate if the model is overfitting or underfitting and adjust complexity accordingly.
   - **Include Additional Features:** If new relevant data becomes available, incorporate it to improve model accuracy, also to increase the data to train and test the model with.
 
+## Generalizability of the research
+The generalizability of the research findings hinges on several key conditions and scenarios that should be considered:
+
+1. **Data Quality and Availability:** The reliability and comprehensiveness of the datasets utilized in this research significantly impact the generalizability of our findings. It's crucial to ensure that the data used for analysis are accurate, up-to-date, and representative of the regions or countries under investigation. Additionally, the availability of relevant variables and indicators may vary across different datasets, which could affect the applicability of our method and results to certain regions or contexts.
+
+2. **Economic and Socio-political Context:** The relationship between economic factors, energy access disparities, and efficiency levels can be influenced by various socio-political and economic factors unique to each country or region. Therefore, the generalizability of the findings may vary depending on the specific context in which they are applied. Factors such as government policies, regulatory frameworks, cultural norms, and technological capabilities can significantly impact the effectiveness of interventions aimed at addressing energy access disparities and improving energy efficiency.
+
+3. **Modeling Techniques and Assumptions:** The machine learning algorithms employed in this research, such as linear regression and random forest classifiers, have their own strengths and limitations. While these algorithms are suitable for capturing complex relationships and making predictions based on available data, their performance may vary depending on the specific characteristics of the datasets and the assumptions underlying the modeling process. It's essential to validate the robustness of the models across different datasets and scenarios to ensure their generalizability.
+
+4. **Temporal Dynamics and Long-term Trends:** Energy systems are subject to evolving dynamics and long-term trends influenced by factors such as technological advancements, policy changes, market fluctuations, and societal shifts. Therefore, the generalizability of our findings may be contingent upon the temporal dynamics and long-term trends observed in energy markets and socio-economic systems. It's crucial to account for these temporal dynamics and incorporate appropriate forecasting techniques to assess the resilience and sustainability of the policy recommendations over time.
+
+5. **Cross-disciplinary Collaboration and Stakeholder Engagement:** Achieving widespread adoption and implementation of this research findings necessitates cross-disciplinary collaboration and stakeholder engagement. Policymakers, industry stakeholders, researchers, and civil society organizations play crucial roles in translating research insights into actionable policies and interventions. Therefore, the generalizability of the research findings depends on the extent to which they resonate with diverse stakeholders and are integrated into broader policy discussions and decision-making processes.
+
+In summary, while this research provides valuable insights into the relationship between economic factors, energy access disparities, and efficiency levels, the generalizability of the findings depends on various contextual factors, data quality, modeling techniques, and stakeholder engagement. By carefully considering these conditions and scenarios, we can enhance the relevance and applicability of the research findings to diverse regions and contexts, ultimately contributing to more effective policy interventions and sustainable energy transitions globally.
+
+
 ## References:
 
 - Aydın, Celil, and Ömer Esen. 2018. “Does the Level of Energy Intensity Matter in the Effect of Energy Consumption on the Growth of Transition Economies? Evidence from Dynamic Panel Threshold Analysis.” Energy Economics 69 (January): 185–95. [https://doi.org/10.1016/j.eneco.2017.11.010](https://doi.org/10.1016/j.eneco.2017.11.010).
