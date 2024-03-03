@@ -33,7 +33,7 @@ The research aims to answer the following questions:
 - RQ1: How do economic factors such as GDP per capita correlate with energy access disparities across different regions?
 - RQ2: What factors contribute to the classification of countries into high, medium, and low energy efficiency levels, and can these factors be used to predict a country's energy efficiency?
 
-### Questions Significance & Application Scenarios
+### Questions Significance
 
 1. **Understanding the Relationship Between Economic Factors and Energy Access Disparities:**
    - Economic factors, such as GDP per capita, play a crucial role in determining the level of energy access within different regions. Higher GDP per capita generally indicates greater purchasing power and infrastructure development, which often lead to improved access to energy resources. Conversely, regions with lower GDP per capita tend to face challenges in accessing modern energy services, leading to disparities in energy access.
@@ -44,14 +44,8 @@ The research aims to answer the following questions:
    - By examining the factors contributing to the classification of countries into high, medium, and low energy efficiency levels, researchers can identify key determinants that influence a country's overall energy efficiency performance. These determinants can include government policies promoting renewable energy adoption, investment in energy-efficient technologies, public awareness campaigns, and regulatory frameworks incentivizing energy conservation.
    - Utilizing predictive modeling techniques, such as machine learning algorithms, researchers can develop models that predict a country's energy efficiency based on relevant factors identified through empirical analysis. These predictive models can assist policymakers in forecasting future energy efficiency trends and designing targeted policies to enhance energy efficiency levels.
 
-3. **Policy Implications and Recommendations:**
-   - Based on the findings from this analysis of economic factors and energy access disparities,  policymakers can prioritize investment in energy infrastructure development in regions with low GDP per capita to improve energy access and alleviate energy poverty.
-   - Furthermore, policymakers can design inclusive policies that ensure equitable distribution of energy resources, particularly targeting underserved communities and rural areas.
-   - Informed by the factors influencing energy efficiency levels, governments can implement comprehensive energy efficiency strategies encompassing regulatory measures, financial incentives, and public awareness campaigns.
-   - Collaboration between governments, scientists, and the private sector is essential to drive innovation in clean energy technologies and facilitate the transition towards a more sustainable and energy-efficient future.
-   - Empowering the general public through education and awareness programs can foster behavioral changes conducive to energy conservation and efficiency.
-
-By integrating insights from both research questions, policymakers can formulate evidence-based policies that address energy access disparities while promoting sustainable energy practices and enhancing overall energy efficiency levels on a global scale. This holistic approach is crucial for achieving energy security, mitigating climate change impacts, and fostering inclusive economic development.
+### Application Scenarios
+The transition towards eco-friendly energy sources, coupled with global events like COP28, underscores the urgency of understanding energy patterns. This research aims to unravel the impact of economic variables on energy access and efficiency, addressing critical gaps in existing literature and offering insights into sustainable energy practices.
 
 ### Methodology
 **Data Source and Datasets:**
@@ -66,6 +60,15 @@ Python is the primary programming language, leveraging data analysis libraries s
 
 ### Results
 Anticipated outcomes include identifying specific economic factors influencing energy access disparities and elucidating the pivotal determinants of countries' energy efficiency classifications. These findings are poised to inform policy decisions, infrastructure planning endeavors, and risk management strategies, thereby facilitating the transition towards a sustainable and secure global energy system.
+
+**Policy Implications and Recommendations:**
+   - Based on the findings from this analysis of economic factors and energy access disparities,  policymakers can prioritize investment in energy infrastructure development in regions with low GDP per capita to improve energy access and alleviate energy poverty.
+   - Furthermore, policymakers can design inclusive policies that ensure equitable distribution of energy resources, particularly targeting underserved communities and rural areas.
+   - Informed by the factors influencing energy efficiency levels, governments can implement comprehensive energy efficiency strategies encompassing regulatory measures, financial incentives, and public awareness campaigns.
+   - Collaboration between governments, scientists, and the private sector is essential to drive innovation in clean energy technologies and facilitate the transition towards a more sustainable and energy-efficient future.
+   - Empowering the general public through education and awareness programs can foster behavioral changes conducive to energy conservation and efficiency.
+
+By integrating insights from both research questions, policymakers can formulate evidence-based policies that address energy access disparities while promoting sustainable energy practices and enhancing overall energy efficiency levels on a global scale. This holistic approach is crucial for achieving energy security, mitigating climate change impacts, and fostering inclusive economic development.
 
 ### Intellectual Merits/Practical Impacts
 By enhancing our understanding of the intricate dynamics between economic variables and energy-related outcomes, this research endeavors to furnish policymakers, energy planners, and researchers with actionable insights to devise adaptive strategies, formulate inclusive policies, and design resilient energy infrastructures. Ultimately, this endeavor aims to contribute towards fostering global energy sustainability and resilience in the face of evolving economic landscapes and shifting global paradigms.
