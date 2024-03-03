@@ -33,7 +33,7 @@ The research aims to answer the following questions:
 - RQ1: How do economic factors such as GDP per capita correlate with energy access disparities across different regions?
 - RQ2: What factors contribute to the classification of countries into high, medium, and low energy efficiency levels, and can these factors be used to predict a country's energy efficiency?
 
-### Questions Significance
+### Questions Significance & Application Scenarios
 
 1. **Understanding the Relationship Between Economic Factors and Energy Access Disparities:**
    - Economic factors, such as GDP per capita, play a crucial role in determining the level of energy access within different regions. Higher GDP per capita generally indicates greater purchasing power and infrastructure development, which often lead to improved access to energy resources. Conversely, regions with lower GDP per capita tend to face challenges in accessing modern energy services, leading to disparities in energy access.
@@ -52,9 +52,6 @@ The research aims to answer the following questions:
    - Empowering the general public through education and awareness programs can foster behavioral changes conducive to energy conservation and efficiency.
 
 By integrating insights from both research questions, policymakers can formulate evidence-based policies that address energy access disparities while promoting sustainable energy practices and enhancing overall energy efficiency levels on a global scale. This holistic approach is crucial for achieving energy security, mitigating climate change impacts, and fostering inclusive economic development.
-
-### Application Scenarios
-The transition towards eco-friendly energy sources, coupled with global events like COP28, underscores the urgency of understanding energy patterns. This research aims to unravel the impact of economic variables on energy access and efficiency, addressing critical gaps in existing literature and offering insights into sustainable energy practices.
 
 ### Methodology
 **Data Source and Datasets:**
