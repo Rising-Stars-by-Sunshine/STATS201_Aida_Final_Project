@@ -5,7 +5,7 @@
 
 - **Instructor**: Professor Luyao Zhang, Duke Kunshan University
 
-- **Disclaimer**: Submissions to the Final Project for STATS 201: Intorduction to Machine Learning for Social Science at Duke Kunshan University.
+- **Disclaimer**: Submissions to the Final Project for STATS 201: Introduction to Machine Learning for Social Science at Duke Kunshan University.
 
 - **Acknowledgments**: I extend my sincere gratitude to Professor Luyao (Sunshine) Zhang for her invaluable supervision
 and insightful teaching during the STATS 201 machine learning for social science course. Her guidance and support were
@@ -36,7 +36,7 @@ The research aims to answer the following questions:
 ### Questions Significance
 
 1. **Understanding the Relationship Between Economic Factors and Energy Access Disparities:**
-   - Economic factors, such as GDP per capita, play a crucial role in determining the level of energy access within different regions. Higher GDP per capita generally indicates greater purchasing power and infrastructure development, which often lead to improved access to energy resources. Conversely, regions with lower GDP per capita tend to face challenges in accessing modern energy services, leading to disparities in energy access.
+   - Economic factors, such as GDP per capita, play a crucial role in determining the level of energy access within different regions. Higher GDP per capita generally indicates greater purchasing power and infrastructure development, which often leads to improved access to energy resources. Conversely, regions with lower GDP per capita tend to face challenges in accessing modern energy services, leading to disparities in energy access.
    - By analyzing the correlation between economic factors like GDP per capita and energy access disparities across regions, policymakers can identify patterns and understand the underlying drivers of energy poverty. This understanding can inform targeted interventions aimed at improving energy access for marginalized communities.
 
 2. **Factors Influencing Energy Efficiency Levels and Predictive Modeling:**
@@ -59,7 +59,7 @@ Python is the primary programming language, leveraging data analysis libraries s
 
 
 ### Results
-Anticipated outcomes include identifying specific economic factors influencing energy access disparities and elucidating the pivotal determinants of countries' energy efficiency classifications. These findings are poised to inform policy decisions, infrastructure planning endeavors, and risk management strategies, thereby facilitating the transition towards a sustainable and secure global energy system.
+Anticipated outcomes include identifying specific economic factors influencing energy access disparities and elucidating the pivotal determinants of countries' energy efficiency classifications. These findings are poised to inform policy decisions, infrastructure planning endeavors, and risk management strategies, thereby facilitating the transition toward a sustainable and secure global energy system.
 
 **Policy Implications and Recommendations:**
    - Based on the findings from this analysis of economic factors and energy access disparities,  policymakers can prioritize investment in energy infrastructure development in regions with low GDP per capita to improve energy access and alleviate energy poverty.

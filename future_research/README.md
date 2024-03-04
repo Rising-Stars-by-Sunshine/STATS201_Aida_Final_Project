@@ -37,12 +37,12 @@ The causal relationship between environmental policy interventions and air quali
     - Panel data. The dataset includes information on air quality measurements in different sites across the US over time (United States Environmental Protection Agency, 2023). 
 - **Machine Learning Algorithm and Package Selection**:
     - For this research, the incorporation of advanced causal inference methods, specifically causal inference using Directed Acyclic Graphs (DAGs). DAGs offer a graphical framework for modeling causal relationships among variables and identifying causal pathways. By explicitly modeling the causal structure of our research question, DAGs can help address issues such as confounding and selection bias more effectively.
-    - Pyhton Library: A Python library developed by Microsoft Research, `doWhy` offers a framework for causal inference using DAGs. It provides functionalities for causal effect estimation, sensitivity analysis, and identification of causal mechanisms.
+    - Python Library: A Python library developed by Microsoft Research, `doWhy` offers a framework for causal inference using DAGs. It provides functionalities for causal effect estimation, sensitivity analysis, and identification of causal mechanisms.
 
 ## Potential Results
 By incorporating DAGs into our analysis, we can not only estimate the causal effect of environmental policy interventions on air quality but also elucidate the underlying causal mechanisms and pathways through which these interventions operate. This deeper understanding can provide invaluable insights for policymakers and stakeholders in designing more targeted and effective environmental policies.
 - Causal Hypothesis: Environmental policy interventions have a causal effect on improving air quality in urban areas. Specifically, stricter environmental regulations and investments in clean energy technologies lead to reductions in air pollutant concentrations (Chen et al. 2023).
-    - Justification: This hypothesis is based on existing research showing correlations between environmental policies and improvements in air quality (Chen et al. 2023). Nonetheless, the previous literature misses to establish causality as establishing causality is essential for policy evaluation and decision-making. By leveraging machine learning techniques, we can analyze complex, non-linear relationships between policy interventions and air quality indicators while controlling for confounding variables, thus providing robust causal evidence.
+    - Justification: This hypothesis is based on existing research showing correlations between environmental policies and improvements in air quality (Chen et al. 2023). Nonetheless, the previous literature fails to establish causality as establishing causality is essential for policy evaluation and decision-making. By leveraging machine learning techniques, we can analyze complex, non-linear relationships between policy interventions and air quality indicators while controlling for confounding variables, thus providing robust causal evidence.
 
 ## Contributions:
 
@@ -92,7 +92,7 @@ This research is significant because it addresses the pressing global challenge 
 - What are the potential impacts of integrating these methods into the existing reinforcement learning framework on energy efficiency and socio-economic development?
 
 ## Methods:
-To advance the current research, we propose the incorporation of advanced reinforcement learning optimization methods, specifically SARSA (State-Action-Reward-State-Action) algorithm. SARSA is a model-free reinforcement learning algorithm that learns the optimal policy directly from interactions with the environment.
+To advance the current research, we propose the incorporation of advanced reinforcement learning optimization methods, specifically the SARSA (State-Action-Reward-State-Action) algorithm. SARSA is a model-free reinforcement learning algorithm that learns the optimal policy directly from interactions with the environment.
 
 **Software Documentation**:
 - TensorFlow or PyTorch: Deep learning frameworks for implementing neural networks.

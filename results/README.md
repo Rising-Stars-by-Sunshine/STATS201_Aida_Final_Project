@@ -15,7 +15,7 @@ This section shows how the research answers each research question based on the 
 
 <img src="linear_regression_true_vs_predicted.png" alt="Linear Regression" width="600"/>
 
-*Figure 1:True vs. Predicted Values of the linear regression model predicting the effects of GDP per capita in energy consumption*
+*Figure 1:True vs. Predicted Values of the linear regression model predicting the effects of GDP per capita on energy consumption*
 
 <img src="random_forest_true_vs_predicted.png" alt="Linear Regression" width="600"/>
 
@@ -39,4 +39,4 @@ In the comparison of model predictions with actual energy consumption per capita
 
 *Figure 4: The confusion matrix visualizes the performance of the classification model.*
 
- In *figure 4*, each cell in the matrix represents the number of instances where the true rows and the predicted columns coincide. The diagonal elements representing correct predictions show that the Random Forest classifier performs very well in predicting energy efficiency levels based on renewable energy share and energy intensity features. *Figure 3* visualizes the feature's importance. It indicates the contribution of each feature to the prediction accuracy of the model. As higher values indicate more significant contributions, it is clear that the share of renewable electricity is more significant in the model.
+ In *Figure 4*, each cell in the matrix represents the number of instances where the true rows and the predicted columns coincide. The diagonal elements representing correct predictions show that the Random Forest classifier performs very well in predicting energy efficiency levels based on renewable energy share and energy intensity features. *Figure 3* visualizes the feature's importance. It indicates the contribution of each feature to the prediction accuracy of the model. As higher values indicate more significant contributions, it is clear that the share of renewable electricity is more significant in the model.
